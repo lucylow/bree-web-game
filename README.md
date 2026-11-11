@@ -1,4 +1,4 @@
-# BREE: The Garden Supper — Housewife Life Simulation & Strategy Game
+# BREE WISTERIA LANE: The Garden Supper — Housewife Life Simulation & Strategy Game
 
 > **BREE** is an ambitious browser-game project combining tactical action, culinary time management, character-driven role-playing, estate management, and suburban social strategy.
 >
